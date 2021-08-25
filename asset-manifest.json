@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/newTRVL/static/css/main.a3bef058.chunk.css",
+    "main.js": "/newTRVL/static/js/main.b3bd8d62.chunk.js",
+    "main.js.map": "/newTRVL/static/js/main.b3bd8d62.chunk.js.map",
+    "runtime-main.js": "/newTRVL/static/js/runtime-main.5a45bb5c.js",
+    "runtime-main.js.map": "/newTRVL/static/js/runtime-main.5a45bb5c.js.map",
+    "static/js/2.b53ce92e.chunk.js": "/newTRVL/static/js/2.b53ce92e.chunk.js",
+    "static/js/2.b53ce92e.chunk.js.map": "/newTRVL/static/js/2.b53ce92e.chunk.js.map",
+    "index.html": "/newTRVL/index.html",
+    "static/css/main.a3bef058.chunk.css.map": "/newTRVL/static/css/main.a3bef058.chunk.css.map",
+    "static/js/2.b53ce92e.chunk.js.LICENSE.txt": "/newTRVL/static/js/2.b53ce92e.chunk.js.LICENSE.txt",
+    "static/media/baba.0b74d374.png": "/newTRVL/static/media/baba.0b74d374.png",
+    "static/media/card.scss": "/newTRVL/static/media/dashboard.jpg.c30040f3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a45bb5c.js",
+    "static/js/2.b53ce92e.chunk.js",
+    "static/css/main.a3bef058.chunk.css",
+    "static/js/main.b3bd8d62.chunk.js"
+  ]
+}
